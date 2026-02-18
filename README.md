@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- HEADER -->
+<!-- HEADER: WAVING GRADIENT -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0072ff&height=280&section=header&text=Ramazan%20Aliev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Engineer%20%7C%20Industrial%20Designer&descAlignY=55&descSize=22&descColor=fff" alt="Header" width="100%"/>
 
 <!-- PROFILE & SOCIAL LINKS -->
-<!-- Replace 'logo.png' with the actual file name of the R image you upload to your repo -->
+<!-- NOTE: Ensure you have uploaded your blue R logo as 'logo.png' in your repo -->
 <a href="https://ramazan-aliev.ru">
-  <img src="logo.png" height="50" alt="Website" title="Visit My Website" style="border-radius: 10px; margin-bottom: -10px;" />
+  <img src="logo.png" height="55" alt="My Website" title="Visit My Website" style="border-radius: 10px; margin-bottom: -15px;" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:aliev.ramazan.nurullakhovich@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
@@ -35,41 +35,46 @@
 
 <!-- ENGINEERING -->
 <p><strong>Engineering & AI</strong></p>
-<a href="https://www.google.com/search?q=Python+Programming"><img src="https://skillicons.dev/icons?i=python&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=Pandas+Python+Library"><img src="https://skillicons.dev/icons?i=pandas&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=Flask+Python"><img src="https://skillicons.dev/icons?i=flask&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=Git+Version+Control"><img src="https://skillicons.dev/icons?i=git&theme=light" height="45" /></a>
+<a href="https://www.google.com/search?q=Python+Programming"><img src="https://skillicons.dev/icons?i=python&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=Pandas+Python+Library"><img src="https://skillicons.dev/icons?i=pandas&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=Flask+Python"><img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=Git+Version+Control"><img src="https://skillicons.dev/icons?i=git&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=VS+Code"><img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" /></a>
 
 <br><br>
 
-<!-- DESIGN & CAD (Custom Badges for Specific Tools) -->
+<!-- DESIGN & CAD (Specific Tools from Resume) -->
 <p><strong>Industrial Design & CAD</strong></p>
+
 <!-- Standard Icons -->
-<a href="https://www.google.com/search?q=Blender+3D"><img src="https://skillicons.dev/icons?i=blender&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=Figma+Design"><img src="https://skillicons.dev/icons?i=figma&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=Adobe+Photoshop"><img src="https://skillicons.dev/icons?i=ps&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=Adobe+Illustrator"><img src="https://skillicons.dev/icons?i=ai&theme=light" height="45" /></a>
-<a href="https://www.google.com/search?q=CorelDRAW"><img src="https://img.shields.io/badge/CorelDRAW-009039?style=for-the-badge&logo=corel&logoColor=white" height="45" /></a>
+<a href="https://www.google.com/search?q=Blender+3D"><img src="https://skillicons.dev/icons?i=blender&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=Figma+Design"><img src="https://skillicons.dev/icons?i=figma&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=Adobe+Photoshop"><img src="https://skillicons.dev/icons?i=ps&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=Adobe+Illustrator"><img src="https://skillicons.dev/icons?i=ai&theme=light" height="50" /></a>
+<a href="https://www.google.com/search?q=Adobe+XD"><img src="https://skillicons.dev/icons?i=xd&theme=light" height="50" /></a>
 
-<br><br>
+<br>
 
-<!-- Specific Engineering CAD Tools -->
+<!-- Custom Badges for Tools not in Icon Set -->
 <a href="https://www.google.com/search?q=Autodesk+Fusion+360">
-  <img src="https://img.shields.io/badge/Fusion%20360-E65100?style=for-the-badge&logo=autodesk&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Fusion%20360-E65100?style=for-the-badge&logo=autodesk&logoColor=white" height="35" />
 </a>
 <a href="https://www.google.com/search?q=Kompas-3D+CAD">
-  <img src="https://img.shields.io/badge/Compass--3D-005F9E?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Compass--3D-005F9E?style=for-the-badge" height="35" />
 </a>
 <a href="https://www.google.com/search?q=T-FLEX+CAD">
-  <img src="https://img.shields.io/badge/T--FLEX%20CAD-808080?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/T--FLEX%20CAD-808080?style=for-the-badge" height="35" />
 </a>
 <a href="https://www.google.com/search?q=UltiMaker+Cura">
-  <img src="https://img.shields.io/badge/UltiMaker%20Cura-000000?style=for-the-badge&logo=ultimaker&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/UltiMaker%20Cura-000000?style=for-the-badge&logo=ultimaker&logoColor=white" height="35" />
 </a>
 <a href="https://www.google.com/search?q=Adobe+Dimension">
-  <img src="https://img.shields.io/badge/Adobe%20Dimension-220000?style=for-the-badge&logo=adobe&logoColor=14D88D" height="30" />
+  <img src="https://img.shields.io/badge/Adobe%20Dimension-220000?style=for-the-badge&logo=adobe&logoColor=14D88D" height="35" />
+</a>
+<a href="https://www.google.com/search?q=CorelDRAW">
+  <img src="https://img.shields.io/badge/CorelDRAW-009039?style=for-the-badge&logo=corel&logoColor=white" height="35" />
 </a>
 
 </div>
@@ -97,7 +102,7 @@
 <br>
 <hr>
 
-<!-- TECHNICAL PROJECTS -->
+<!-- TECHNICAL PROJECTS (Grid Layout Fixed) -->
 ## 📂 Technical Projects
 
 <table width="100%">
