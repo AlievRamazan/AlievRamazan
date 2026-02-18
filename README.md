@@ -1,135 +1,112 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Ramazan%20Aliev&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Engineer%20%7C%20Industrial%20Designer&descAlignY=55&descSize=25" alt="Header" width="100%"/>
+<!-- 1. HEADER: WAVING GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Ramazan%20Aliev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Solutions%20Engineer%20%7C%20Industrial%20Designer&descAlignY=58&descSize=20&descColor=fff" alt="Header" width="100%"/>
 
-<!-- SOCIAL LINKS -->
-<h3>
-<a href="https://ramazan-aliev.ru">🌐 Website</a> &nbsp;|&nbsp; 
-<a href="mailto:aliev.ramazan.nurullakhovich@gmail.com">📧 Email</a> &nbsp;|&nbsp; 
-<a href="https://linkedin.com/in/your-profile">💼 LinkedIn</a>
-</h3>
-
+<!-- 2. SOCIAL LINKS -->
 <p>
-<em>"I view industrial design and machine learning as fundamental problem-solving processes<br>where form and content are inseparable."</em>
+  <a href="https://ramazan-aliev.ru">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:aliev.ramazan.nurullakhovich@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
 </p>
 
-<!-- TECH STACK -->
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Fusion%20360-E65100?style=for-the-badge&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<br>
+
+<!-- 3. TECH STACK (Visual Icons - Fixed & Prettier) -->
+<h3>🛠️ The Tech Arsenal</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,pandas,flask,arduino,blender,figma,ps,ai&perline=10&theme=light" />
+</a>
+
 </div>
 
+<br>
 <hr>
 
-<!-- MAIN CONTENT TABLE -->
-<table border="0" width="100%">
-<tr>
-<td width="55%" valign="top">
-<h2 align="center">🛠️ Engineering & Impact</h2>
+<!-- 4. PROFESSIONAL EXPERIENCE (Vertical for readability) -->
+## 💼 Professional Experience
+
+### **🤖 AI Solutions Engineer** | *VISAZH COSMETICS LLC*
+*2026 – Present*
+> *Leading the integration of AI agents into e-commerce workflows.*
+- **Virtual Try-On System:** Developing a Computer Vision agent that visualizes cosmetic products on user photos.
+- **Business Automation:** deploying AI agents to optimize internal marketing and support processes.
+
 <br>
-<!-- JOB 1 -->
-<h3>🧠 AI Solutions Engineer</h3>
-<p><strong>Visazh Cosmetics LLC</strong> | <em>2026 - Present</em></p>
-<p>Leading the integration of AI agents into e-commerce workflows.</p>
-<ul>
-<li>Developing a <strong>Virtual Try-On System</strong> (Computer Vision) to visualize cosmetics on user photos.</li>
-<li>Optimizing internal business processes through automated agents.</li>
-</ul>
-<br>
-<!-- JOB 2 -->
-<h3>🚀 Founder & Lead Developer</h3>
-<p><strong>Silver Clue (Startup)</strong> | <em>2025</em></p>
-<p>A B2B SaaS platform automating financial accounting for SMBs.</p>
-<ul>
-<li><strong>Tech:</strong> Python, PyPDF2, Pandas, Seaborn.</li>
-<li><strong>Impact:</strong> Deployed in 3 companies.</li>
-<li><strong>Metrics:</strong> Saving clients <strong>300+ hours</strong> & <strong>$1,400 USD</strong> monthly.</li>
-</ul>
-</td>
-<td width="45%" valign="top">
-<h2 align="center">🏆 Recognition</h2>
-<br>
-<table border="0">
-<tr>
-<td width="15%">🥇</td>
-<td>
-<strong>1st Place: "My Profession-IT"</strong><br>
-<em>Regional Winner, Top 1% National Selection.</em>
-</td>
-</tr>
-<tr>
-<td width="15%">🥇</td>
-<td>
-<strong>1st Place: VR/AR Hackathon</strong><br>
-<em>Developed facial recognition attendance system.</em>
-</td>
-</tr>
-<tr>
-<td width="15%">🥈</td>
-<td>
-<strong>National Finalist: "Professionals"</strong><br>
-<em>Industrial Design (Ranked 7th in Russia).</em>
-</td>
-</tr>
-<tr>
-<td width="15%">🎖️</td>
-<td>
-<strong>State Laureate Award</strong><br>
-<em>Awarded by the <strong>State Duma of the Russian Federation</strong> for "BabySpy".</em>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+
+### **🚀 Founder & Lead Developer** | *Silver Clue (Startup)*
+*2025*
+> *B2B SaaS platform automating financial accounting for SMBs.*
+- **The Tech:** Built a pipeline using `Python`, `PyPDF2`, and `Pandas` to parse unstructured bank receipts.
+- **The Impact:** Deployed in 3 companies.
+- **The Numbers:** Saves clients **300+ hours** of labor and **$1,400 USD** in operating expenses monthly.
 
 <br>
 <hr>
 
-<!-- PROJECTS SECTION -->
-<h2 align="center">📂 Featured Projects</h2>
+<!-- 5. FEATURED PROJECTS (Grid Layout) -->
+## 📂 Featured Projects
 
 <table width="100%">
-<tr>
-<td width="50%">
-<h3 align="center">👟 Nimble</h3>
-<p align="center"><strong>Sports Discovery Platform</strong></p>
-<p>A geolocation-based platform helping youth find local sports events. Includes a parent-tracking ranking system.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Winner-Hackathon_Project-gold" />
-<img src="https://img.shields.io/badge/Stack-Flask_%7C_GeoAPI-blue" />
-</p>
-</td>
-<td width="50%">
-<h3 align="center">👶 BabySpy</h3>
-<p align="center"><strong>IoT Child Safety System</strong></p>
-<p>Wearable hardware with accelerometer/gyroscope sensors. Detects "danger zones" (windows/stairs) via Bluetooth.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Award-State_Laureate-red" />
-<img src="https://img.shields.io/badge/Stack-C++_%7C_Fusion_360-orange" />
-</p>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👟 Nimble</h3>
+      <p align="center"><strong>Sports Discovery Platform</strong></p>
+      <br>
+      <p>A geolocation-based platform helping youth find local sports events. Includes a ranking system for parents to track achievements.</p>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Hackathon_Winner-gold" />
+        <br>
+        <code>Flask</code> <code>GeoAPI</code> <code>UI/UX</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👶 BabySpy</h3>
+      <p align="center"><strong>IoT Child Safety System</strong></p>
+      <br>
+      <p>Wearable hardware with accelerometer/gyroscope sensors. Detects "danger zones" (windows/stairs) via Bluetooth.</p>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Award-State_Laureate-red" />
+        <br>
+        <code>C++</code> <code>Fusion 360</code> <code>Hardware</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br>
+<hr>
 
-<!-- STATS -->
-<h2 align="center">📊 Analytics</h2>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlievRamazan&show_icons=true&theme=transparent&hide_border=false&title_color=007ec6&text_color=5c5c5c&icon_color=007ec6" height="160" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlievRamazan&layout=compact&theme=transparent&hide_border=false&title_color=007ec6&text_color=5c5c5c" height="160" alt="languages graph" />
-</div>
+<!-- 6. AWARDS (Clean Table) -->
+## 🏆 Honors & Recognition
+
+| Year | Award | Distinction |
+| :--- | :--- | :--- |
+| **2024** | 🥇 **1st Place** | **"My Profession-IT" Contest** (Top 1% National Selection) |
+| **2024** | 🥇 **1st Place** | **VR/AR Hackathon** (Facial Recognition Attendance System) |
+| **2023** | 🥈 **Finalist** | **National "Professionals" Champ** (Ranked 7th in Russia) |
+| **2022** | 🎖️ **Laureate** | **State Duma of the Russian Federation** (Young Technicians Award) |
 
 <br>
+
+<!-- 7. GITHUB STATS -->
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlievRamazan&show_icons=true&theme=transparent&hide_border=true&title_color=0072ff&text_color=555&icon_color=0072ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlievRamazan&layout=compact&theme=transparent&hide_border=true&title_color=0072ff&text_color=555" height="150" />
+</div>
 
 <!-- FOOTER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%"/>
 </div>
-```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FAlievRamazan%2FAlievRamazan%2Fblob%2Fmain%2FREADME.md)]
