@@ -3,10 +3,9 @@
 <!-- HEADER: WAVING GRADIENT -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0072ff&height=280&section=header&text=Ramazan%20Aliev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Engineer%20%7C%20Industrial%20Designer&descAlignY=55&descSize=22&descColor=fff" alt="Header" width="100%"/>
 
-<!-- PROFILE LINKS & LOGO -->
-<!-- The Blue 'R' Icon is generated automatically - No upload needed -->
+<!-- PROFILE BUTTONS -->
 <a href="https://ramazan-aliev.ru">
-  <img src="https://ui-avatars.com/api/?name=R&background=0072ff&color=fff&rounded=true&bold=true&size=64&font-size=0.6" height="50" alt="Website Logo" title="Visit My Website" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://img.shields.io/badge/Personal_Website-Visit_Portfolio-0072ff?style=for-the-badge&logo=googlechrome&logoColor=white" height="50" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:aliev.ramazan.nurullakhovich@gmail.com">
