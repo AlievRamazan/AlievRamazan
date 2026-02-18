@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- 1. HEADER: WAVING GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Ramazan%20Aliev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Solutions%20Engineer%20%7C%20Industrial%20Designer&descAlignY=58&descSize=20&descColor=fff" alt="Header" width="100%"/>
+<!-- HEADER: WAVING GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0072ff&height=300&section=header&text=Ramazan%20Aliev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Engineer%20%7C%20Industrial%20Designer&descAlignY=55&descSize=22&descColor=fff" alt="Header" width="100%"/>
 
-<!-- 2. SOCIAL LINKS -->
+<!-- CONTACT LINKS (No LinkedIn) -->
 <p>
   <a href="https://ramazan-aliev.ru">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
@@ -12,48 +12,66 @@
   <a href="mailto:aliev.ramazan.nurullakhovich@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
 </p>
 
 <br>
 
-<!-- 3. TECH STACK (Visual Icons - Fixed & Prettier) -->
+<!-- INTRO QUOTE -->
+<p align="center" width="80%">
+  <em>"My interests lie at the intersection of industrial design and machine learning, viewing both as<br>fundamental problem-solving processes where form and content are inseparable."</em>
+</p>
+
+<br>
+
+<!-- TECH ARSENAL: SPLIT INTO CODE & DESIGN -->
 <h3>🛠️ The Tech Arsenal</h3>
+
+<!-- ROW 1: ENGINEERING -->
+<p align="center"><strong>Engineering & AI</strong></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,pandas,flask,arduino,blender,figma,ps,ai&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,opencv,pytorch,flask,vscode,git&theme=light" />
 </a>
+
+<br>
+
+<!-- ROW 2: DESIGN -->
+<p align="center"><strong>Industrial & Graphic Design</strong></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=blender,figma,ps,ai,xd&theme=light" />
+</a>
+<br>
+<!-- Manual Badges for CAD tools not in icon set -->
+<img src="https://img.shields.io/badge/Fusion%20360-E65100?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Compass--3D-005F9E?style=flat-square" />
+<img src="https://img.shields.io/badge/T--FLEX%20CAD-grey?style=flat-square" />
 
 </div>
 
 <br>
 <hr>
 
-<!-- 4. PROFESSIONAL EXPERIENCE (Vertical for readability) -->
+<!-- PROFESSIONAL EXPERIENCE -->
 ## 💼 Professional Experience
 
 ### **🤖 AI Solutions Engineer** | *VISAZH COSMETICS LLC*
 *2026 – Present*
-> *Leading the integration of AI agents into e-commerce workflows.*
-- **Virtual Try-On System:** Developing a Computer Vision agent that visualizes cosmetic products on user photos.
-- **Business Automation:** deploying AI agents to optimize internal marketing and support processes.
+- **Role:** Implementing AI agents to automate e-commerce workflows and optimize internal business processes.
+- **Key Project:** Developing a **"Virtual Try-On"** AI agent using Computer Vision. The system analyzes user photos to visualize how specific cosmetic products would look on them.
 
 <br>
 
-### **🚀 Founder & Lead Developer** | *Silver Clue (Startup)*
+### **🚀 Founder & Lead Developer** | *Silver Clue*
 *2025*
-> *B2B SaaS platform automating financial accounting for SMBs.*
-- **The Tech:** Built a pipeline using `Python`, `PyPDF2`, and `Pandas` to parse unstructured bank receipts.
-- **The Impact:** Deployed in 3 companies.
-- **The Numbers:** Saves clients **300+ hours** of labor and **$1,400 USD** in operating expenses monthly.
+- **Project:** Market Data Analysis & Automation Pipeline.
+- **Tech Stack:** `Python`, `Pandas`, `PyPDF2`, `Seaborn`, `Excel`.
+- **Impact:** Currently used by three companies.
+- **Results:** Saves over **300 hours** of manual labor and approximately **$1,400 USD** in operating expenses monthly per client.
 
 <br>
 <hr>
 
-<!-- 5. FEATURED PROJECTS (Grid Layout) -->
-## 📂 Featured Projects
+<!-- FEATURED PROJECTS GRID -->
+## 📂 Technical Projects
 
 <table width="100%">
   <tr>
@@ -61,24 +79,24 @@
       <h3 align="center">👟 Nimble</h3>
       <p align="center"><strong>Sports Discovery Platform</strong></p>
       <br>
-      <p>A geolocation-based platform helping youth find local sports events. Includes a ranking system for parents to track achievements.</p>
+      <p>A web platform with geolocation search helping youth find local sports events. Includes a ranking system for parents to track achievements.</p>
       <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Hackathon_Winner-gold" />
+        <img src="https://img.shields.io/badge/Award-Hackathon_Winner-gold" />
         <br>
-        <code>Flask</code> <code>GeoAPI</code> <code>UI/UX</code>
+        <code>Flask</code> <code>Geolocation API</code> <code>UI/UX</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">👶 BabySpy</h3>
-      <p align="center"><strong>IoT Child Safety System</strong></p>
+      <p align="center"><strong>Child Safety Device</strong></p>
       <br>
-      <p>Wearable hardware with accelerometer/gyroscope sensors. Detects "danger zones" (windows/stairs) via Bluetooth.</p>
+      <p>Wearable hardware with accelerometer/gyroscope. Detects "danger zones" and sends Bluetooth alerts to a smartphone.</p>
       <br>
       <p align="center">
         <img src="https://img.shields.io/badge/Award-State_Laureate-red" />
         <br>
-        <code>C++</code> <code>Fusion 360</code> <code>Hardware</code>
+        <code>Hardware</code> <code>BLE</code> <code>Fusion 360</code>
       </p>
     </td>
   </tr>
@@ -87,26 +105,29 @@
 <br>
 <hr>
 
-<!-- 6. AWARDS (Clean Table) -->
+<!-- AWARDS TABLE -->
 ## 🏆 Honors & Recognition
 
 | Year | Award | Distinction |
 | :--- | :--- | :--- |
-| **2024** | 🥇 **1st Place** | **"My Profession-IT" Contest** (Top 1% National Selection) |
-| **2024** | 🥇 **1st Place** | **VR/AR Hackathon** (Facial Recognition Attendance System) |
-| **2023** | 🥈 **Finalist** | **National "Professionals" Champ** (Ranked 7th in Russia) |
-| **2022** | 🎖️ **Laureate** | **State Duma of the Russian Federation** (Young Technicians Award) |
+| **2024** | 🥇 **1st Place** | **"My Profession-IT" Contest** (Top 1% National Selection). |
+| **2024** | 🥇 **1st Place** | **VR/AR Hackathon** (Facial Recognition System). |
+| **2024** | 🥈 **2nd Place** | **Art-Hackathon** (Educational Interface Concept). |
+| **2023** | 🥈 **Finalist** | **National "Professionals" Championship** (Industrial Design). |
+| **2022** | 🎖️ **Laureate** | **State Duma of the Russian Federation** (Young Technicians Award). |
 
 <br>
 
-<!-- 7. GITHUB STATS -->
+<!-- GITHUB STATS - FIXED -->
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlievRamazan&show_icons=true&theme=transparent&hide_border=true&title_color=0072ff&text_color=555&icon_color=0072ff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlievRamazan&layout=compact&theme=transparent&hide_border=true&title_color=0072ff&text_color=555" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlievRamazan&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlievRamazan&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
+
+<br>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0072ff&height=100&section=footer" width="100%"/>
 </div>
