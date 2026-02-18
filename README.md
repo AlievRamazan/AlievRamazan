@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- HEADER -->
+<!-- HEADER: WAVING GRADIENT -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0072ff&height=280&section=header&text=Ramazan%20Aliev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Solutions%20Engineer%20%7C%20Industrial%20Designer&descAlignY=55&descSize=22&descColor=fff" alt="Header" width="100%"/>
 
-<!-- PROFILE & SOCIAL LINKS -->
+<!-- PROFILE LINKS & LOGO -->
+<!-- The Blue 'R' Icon is generated automatically - No upload needed -->
 <a href="https://ramazan-aliev.ru">
-  <img src="logo.png" height="60" alt="Website" title="Visit My Website" style="border-radius: 15px; margin-bottom: -15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://ui-avatars.com/api/?name=R&background=0072ff&color=fff&rounded=true&bold=true&size=64&font-size=0.6" height="50" alt="Website Logo" title="Visit My Website" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:aliev.ramazan.nurullakhovich@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
 </a>
 
 <br><br>
@@ -29,57 +30,55 @@
 <br>
 <hr>
 
-<!-- TECH STACK: ALL CLICKABLE TO GOOGLE -->
+<!-- TECH STACK: UNIFIED PROFESSIONAL STYLE -->
 <h3 align="center">🛠️ The Tech Arsenal</h3>
 <div align="center">
 
-<!-- ENGINEERING -->
+<!-- ENGINEERING & AI -->
 <p><strong>Engineering & AI</strong></p>
 
-<!-- Line 1: Main Languages -->
-<a href="https://www.google.com/search?q=Python+Programming"><img src="https://skillicons.dev/icons?i=python&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=Pandas+Python+Library"><img src="https://skillicons.dev/icons?i=pandas&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=Flask+Python"><img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=Git+Version+Control"><img src="https://skillicons.dev/icons?i=git&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=VS+Code"><img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" /></a>
+<!-- Row 1 -->
+<a href="https://www.google.com/search?q=Python+Programming"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=Pandas+Python+Library"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=OpenCV"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=PyTorch"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=Flask+Framework"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+<br>
+<!-- Row 2 -->
+<a href="https://www.google.com/search?q=Git+Version+Control"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=PyPDF2+Library"><img src="https://img.shields.io/badge/PyPDF2-3776AB?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=Seaborn+Visualization"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 <br><br>
 
-<!-- Line 2: Specific Libraries (Custom Badges) -->
-<a href="https://www.google.com/search?q=PyPDF2+Library"><img src="https://img.shields.io/badge/PyPDF2-ver.3.0-blue?style=for-the-badge&logo=python&logoColor=white" height="30"/></a>
-<a href="https://www.google.com/search?q=Seaborn+Python"><img src="https://img.shields.io/badge/Seaborn-Data_Viz-7a8eff?style=for-the-badge&logo=python&logoColor=white" height="30"/></a>
-<a href="https://www.google.com/search?q=Microsoft+Excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/></a>
-
-<br><br>
-
-<!-- DESIGN & CAD -->
+<!-- INDUSTRIAL DESIGN & CAD -->
 <p><strong>Industrial Design & CAD</strong></p>
 
-<!-- Standard Icons -->
-<a href="https://www.google.com/search?q=Blender+3D"><img src="https://skillicons.dev/icons?i=blender&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=Figma+Design"><img src="https://skillicons.dev/icons?i=figma&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=Adobe+Photoshop"><img src="https://skillicons.dev/icons?i=ps&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=Adobe+Illustrator"><img src="https://skillicons.dev/icons?i=ai&theme=light" height="50" /></a>
-<a href="https://www.google.com/search?q=Adobe+XD"><img src="https://skillicons.dev/icons?i=xd&theme=light" height="50" /></a>
+<!-- Row 1 -->
+<a href="https://www.google.com/search?q=Autodesk+Fusion+360"><img src="https://img.shields.io/badge/Fusion%20360-E65100?style=for-the-badge&logo=autodesk&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=Blender+3D"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=Kompas-3D+CAD"><img src="https://img.shields.io/badge/Compass--3D-005F9E?style=for-the-badge&logo=autodesk&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=T-FLEX+CAD"><img src="https://img.shields.io/badge/T--FLEX%20CAD-000000?style=for-the-badge" /></a>
+<br>
+<!-- Row 2 -->
+<a href="https://www.google.com/search?q=UltiMaker+Cura"><img src="https://img.shields.io/badge/UltiMaker%20Cura-000000?style=for-the-badge&logo=ultimaker&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=Adobe+Dimension"><img src="https://img.shields.io/badge/Adobe%20Dimension-220000?style=for-the-badge&logo=adobe&logoColor=14D88D" /></a>
 
 <br><br>
 
-<!-- CAD Tools (Custom Badges for missing icons) -->
-<a href="https://www.google.com/search?q=Autodesk+Fusion+360"><img src="https://img.shields.io/badge/Fusion%20360-E65100?style=for-the-badge&logo=autodesk&logoColor=white" height="30" /></a>
-<a href="https://www.google.com/search?q=Kompas-3D+CAD"><img src="https://img.shields.io/badge/Compass--3D-005F9E?style=for-the-badge" height="30" /></a>
-<a href="https://www.google.com/search?q=T-FLEX+CAD"><img src="https://img.shields.io/badge/T--FLEX%20CAD-black?style=for-the-badge" height="30" /></a>
-<a href="https://www.google.com/search?q=UltiMaker+Cura"><img src="https://img.shields.io/badge/UltiMaker%20Cura-000000?style=for-the-badge&logo=ultimaker&logoColor=white" height="30" /></a>
-<a href="https://www.google.com/search?q=Adobe+Dimension"><img src="https://img.shields.io/badge/Adobe%20Dimension-220000?style=for-the-badge&logo=adobe&logoColor=14D88D" height="30" /></a>
-<a href="https://www.google.com/search?q=CorelDRAW"><img src="https://img.shields.io/badge/CorelDRAW-009039?style=for-the-badge" height="30" /></a>
+<!-- GRAPHIC DESIGN -->
+<p><strong>Graphic Design</strong></p>
+<a href="https://www.google.com/search?q=Adobe+Photoshop"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=Adobe+Illustrator"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=Figma+Design"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=CorelDRAW"><img src="https://img.shields.io/badge/CorelDRAW-009039?style=for-the-badge&logo=corel&logoColor=white" /></a>
 
 </div>
 
 <br>
 <hr>
 
-<!-- PROFESSIONAL EXPERIENCE (Vertical Layout for Professional Look) -->
+<!-- PROFESSIONAL EXPERIENCE -->
 ## 💼 Professional Experience
 
 ### **🤖 AI Solutions Engineer**
@@ -98,7 +97,7 @@
 <br>
 <hr>
 
-<!-- FEATURED PROJECTS (Aligned Grid) -->
+<!-- FEATURED PROJECTS -->
 ## 📂 Technical Projects
 
 <table width="100%">
@@ -129,7 +128,7 @@
 <br>
 <hr>
 
-<!-- AWARDS (Clean Table) -->
+<!-- AWARDS -->
 ## 🏆 Honors & Recognition
 
 | Year | Award | Distinction |
@@ -145,8 +144,12 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
+  <a href="https://github.com/AlievRamazan">
   <img src="https://github-readme-stats.vercel.app/api?username=AlievRamazan&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/AlievRamazan?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlievRamazan&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  </a>
 </div>
 
 <br>
